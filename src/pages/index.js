@@ -56,7 +56,7 @@ const IndexPage = () =>
 
     <Header>
       <HeaderImage src={logo} />
-      <TextHeader>Book a shot today</TextHeader>
+      <TextHeader>Book a shoot today</TextHeader>
       <HeaderImage src={logo} />
     </Header>
 
