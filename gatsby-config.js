@@ -6,6 +6,7 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
+      'gatsby-plugin-styled-components',
       options: {
         name: 'gatsby-starter-default',
         short_name: 'starter',
