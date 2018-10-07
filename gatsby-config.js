@@ -4,9 +4,9 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
+    'gatsby-plugin-styled-components',
     {
       resolve: `gatsby-plugin-manifest`,
-      'gatsby-plugin-styled-components',
       options: {
         name: 'gatsby-starter-default',
         short_name: 'starter',
